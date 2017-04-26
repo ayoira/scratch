@@ -58,6 +58,8 @@ Use **index.php** to bring everything together
   - **content-single.php**
 - **page.php** pulls in individual pages
   - **content-page.php**
+  
+## Step 5: Link to files and styles
 
 ## Reviews
 
